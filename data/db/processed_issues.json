@@ -1,0 +1,562 @@
+{
+  "data": [
+    {
+      "id": "I_kwDOPyS9OM7VTIm3",
+      "title": "Criar endpoints de autenticação",
+      "number": 209,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIm3",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:29.282Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIm5",
+      "title": "Definir papéis e permissões",
+      "number": 211,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIm5",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:29.284Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIm4",
+      "title": "Criar formulário de registro",
+      "number": 210,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIm4",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:29.423Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIs0",
+      "title": "Aplicar ACL aos recursos",
+      "number": 213,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIs0",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:33.801Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIsx",
+      "title": "Criar formulário de token",
+      "number": 212,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIsx",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:33.939Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIs3",
+      "title": "Validar token",
+      "number": 214,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIs3",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:34.088Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIua",
+      "title": "Configurar LangChain",
+      "number": 216,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIua",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:38.563Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIub",
+      "title": "Camada de armazenamento",
+      "number": 215,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIub",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:38.795Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIuc",
+      "title": "Implementar criptografia",
+      "number": 217,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIuc",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:39.055Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIva",
+      "title": "Configurar bibliotecas",
+      "number": 219,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIva",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:43.786Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIvY",
+      "title": "Integrar com chat",
+      "number": 218,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIvY",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:43.824Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIvi",
+      "title": "Armazenamento de memória",
+      "number": 220,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIvi",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:44.475Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIwS",
+      "title": "Geração de gráficos",
+      "number": 221,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIwS",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:49.257Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIwT",
+      "title": "Pipeline de dados",
+      "number": 222,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIwT",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:49.286Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIwU",
+      "title": "Integração com chat",
+      "number": 223,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIwU",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:49.362Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIxW",
+      "title": "Integração com IA",
+      "number": 224,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIxW",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:54.023Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIxb",
+      "title": "UI de Autenticação e Token",
+      "number": 225,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIxb",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:54.414Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIyE",
+      "title": "Interface de gerenciamento de token",
+      "number": 228,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIyE",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:58.923Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIyC",
+      "title": "Implementar Sistema de Registro",
+      "number": 226,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIyC",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:45:59.093Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTIyD",
+      "title": "Implementar ACL",
+      "number": 227,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTIyD",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:00.177Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI33",
+      "title": "Armazenamento Seguro",
+      "number": 229,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI33",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:05.405Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI35",
+      "title": "Implementar geração de gráficos",
+      "number": 230,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI35",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:05.512Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI36",
+      "title": "Memória inicial LangChain",
+      "number": 231,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI36",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:05.722Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI43",
+      "title": "Sistema de parâmetros da IA",
+      "number": 233,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI43",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:11.176Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI42",
+      "title": "Criar UI de Autenticação e Token",
+      "number": 232,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI42",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:11.432Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI7k",
+      "title": "Memória Contextual com LangChain",
+      "number": 234,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI7k",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:14.973Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI70",
+      "title": "Autenticação de Usuário e Controle de Acesso",
+      "number": 235,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI70",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:15.550Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI8Q",
+      "title": "Gerenciamento Dinâmico de Token",
+      "number": 236,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI8Q",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:15.697Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI9e",
+      "title": "Geração de Gráficos e Visualização de Dados",
+      "number": 237,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI9e",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:20.212Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI9g",
+      "title": "Padronização de Respostas da IA",
+      "number": 239,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI9g",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:20.398Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTI9f",
+      "title": "Design de Frontend e Usabilidade (UX)",
+      "number": 238,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTI9f",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T22:46:20.573Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNDZ",
+      "title": "Criar formulário de registro",
+      "number": 242,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNDZ",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:24.079Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNDY",
+      "title": "Definir papéis e permissões",
+      "number": 241,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNDY",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:24.343Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNDV",
+      "title": "Criar endpoints de autenticação",
+      "number": 240,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNDV",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:24.344Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNEY",
+      "title": "Criar formulário de token",
+      "number": 243,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNEY",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:29.219Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNEZ",
+      "title": "Aplicar ACL aos recursos",
+      "number": 244,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNEZ",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:29.265Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNEc",
+      "title": "Validar token",
+      "number": 245,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNEc",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:30.982Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNFt",
+      "title": "Camada de armazenamento",
+      "number": 246,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNFt",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:35.845Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNFu",
+      "title": "Configurar LangChain",
+      "number": 247,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNFu",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:35.847Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNFv",
+      "title": "Implementar criptografia",
+      "number": 248,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNFv",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:36.373Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNGv",
+      "title": "Configurar bibliotecas",
+      "number": 250,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNGv",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:41.040Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNGt",
+      "title": "Integrar com chat",
+      "number": 249,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNGt",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:41.294Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNGx",
+      "title": "Armazenamento de memória",
+      "number": 251,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNGx",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:42.645Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNKA",
+      "title": "Integração com chat",
+      "number": 252,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNKA",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:52.695Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNKB",
+      "title": "Pipeline de dados",
+      "number": 253,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNKB",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:52.735Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNKF",
+      "title": "Geração de gráficos",
+      "number": 254,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNKF",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:55.215Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNLK",
+      "title": "Integração com IA",
+      "number": 256,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNLK",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:09:59.642Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNLI",
+      "title": "UI de Autenticação e Token",
+      "number": 255,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNLI",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:00.534Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNMG",
+      "title": "Implementar Sistema de Registro",
+      "number": 258,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNMG",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:04.969Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNMK",
+      "title": "Interface de gerenciamento de token",
+      "number": 259,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNMK",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:05.060Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNMH",
+      "title": "Implementar ACL",
+      "number": 257,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNMH",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:05.692Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNNH",
+      "title": "Armazenamento Seguro",
+      "number": 260,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNNH",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:11.273Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNNK",
+      "title": "Implementar geração de gráficos",
+      "number": 262,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNNK",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:11.316Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNNI",
+      "title": "Memória inicial LangChain",
+      "number": 261,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNNI",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:11.436Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNOI",
+      "title": "Criar UI de Autenticação e Token",
+      "number": 263,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNOI",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:17.499Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNOM",
+      "title": "Sistema de parâmetros da IA",
+      "number": 264,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNOM",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:17.702Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNPJ",
+      "title": "Gerenciamento Dinâmico de Token",
+      "number": 266,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNPJ",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:21.466Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNPH",
+      "title": "Autenticação de Usuário e Controle de Acesso",
+      "number": 265,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNPH",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:21.748Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNPK",
+      "title": "Memória Contextual com LangChain",
+      "number": 267,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNPK",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:24.303Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNQZ",
+      "title": "Geração de Gráficos e Visualização de Dados",
+      "number": 268,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNQZ",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:28.974Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNQe",
+      "title": "Padronização de Respostas da IA",
+      "number": 270,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNQe",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:29.224Z"
+    },
+    {
+      "id": "I_kwDOPyS9OM7VTNQa",
+      "title": "Design de Frontend e Usabilidade (UX)",
+      "number": 269,
+      "uniqueKey": "OraculoOrganization/Oraculo/I_kwDOPyS9OM7VTNQa",
+      "org": "OraculoOrganization",
+      "repo": "Oraculo",
+      "processedAt": "2025-11-01T23:10:29.259Z"
+    }
+  ]
+}
