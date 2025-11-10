@@ -7,7 +7,7 @@ project BacklogProject {
 
 team ProjectTeam {
     name: "Equipe do Projeto"
-    description: "Equipe responsável pelas features descritas no backlog"
+    description: "Equipe responsável pela gestão do projeto"
 
     teammember livia {
         name: "liviahombre"
@@ -20,6 +20,27 @@ team ProjectTeam {
     teammember pedro {
         name: "bedrohenr"
         email: "ferfonhp@gmail.com"
+    }
+    teammember felipe {
+        name: "FeLiXp90"
+        email: "ferfonhp@gmail.com"
+    }
+}
+team DevelelopmentTeam {
+    name: "Equipe de Gestão"
+    description: "Equipe responsável pelas features descritas no backlog"
+
+    teammember sofia {
+        name: "sofianasilva"
+        email: "sofianascimento307@gmail.com"
+    }
+    teammember alicia {
+        name: "aliciacapo"
+        email: "alicia.caporrali@gmail.com"
+    }
+    teammember vitor {
+        name: "nascimentoVitor10"
+        email: "vitorramosnascimento10@gmail.com"
     }
 }
 
@@ -185,7 +206,7 @@ sprint Sprint1 {
     status: IN_PROGRESS
     sprintbacklog Sprint1Backlog {
         item ProductBacklog.Feature3_Memoria.InitialMemory {
-            assignee: ProjectTeam.livia
+            assignee: DevelelopmentTeam.alicia
             startDate: 2025-10-02
             dueDate: 2025-10-08
             status: DOING
@@ -202,7 +223,7 @@ sprint Sprint2 {
     status: PLANNED
     sprintbacklog Sprint2Backlog {
         item ProductBacklog.Feature4_Graficos.Charts {
-            assignee: ProjectTeam.thiago
+            assignee: DevelelopmentTeam.sofia
             startDate: 2025-10-09
             dueDate: 2025-10-15
             status: TODO
@@ -219,7 +240,7 @@ sprint Sprint3 {
     status: PLANNED
     sprintbacklog Sprint3Backlog {
         item ProductBacklog.Feature6_PadraoRespostas.ResponseParams {
-            assignee: ProjectTeam.pedro
+            assignee: DevelelopmentTeam.vitor
             startDate: 2025-10-16
             dueDate: 2025-10-22
             status: TODO
@@ -236,7 +257,7 @@ sprint Sprint4 {
     status: PLANNED
     sprintbacklog Sprint4Backlog {
         item ProductBacklog.Feature5_UI.CreateAuthUI {
-            assignee: ProjectTeam.livia
+            assignee: DevelelopmentTeam.alicia
             startDate: 2025-10-23
             dueDate: 2025-10-29
             status: TODO
@@ -253,7 +274,7 @@ sprint Sprint5 {
     status: PLANNED
     sprintbacklog Sprint5Backlog {
         item ProductBacklog.Feature1_Autenticacao.ImplementRegistration {
-            assignee: ProjectTeam.thiago
+            assignee: DevelelopmentTeam.sofia
             startDate: 2025-10-30
             dueDate: 2025-11-05
             status: TODO
@@ -270,7 +291,7 @@ sprint Sprint6 {
     status: PLANNED
     sprintbacklog Sprint6Backlog {
         item ProductBacklog.Feature2_Token.TokenUI {
-            assignee: ProjectTeam.pedro
+            assignee: DevelelopmentTeam.vitor
             startDate: 2025-11-06
             dueDate: 2025-11-12
             status: TODO
@@ -287,7 +308,7 @@ sprint Sprint7 {
     status: PLANNED
     sprintbacklog Sprint7Backlog {
         item ProductBacklog.Feature2_Token.SecureStorage {
-            assignee: ProjectTeam.pedro
+            assignee: DevelelopmentTeam.alicia
             startDate: 2025-11-13
             dueDate: 2025-11-19
             status: TODO
@@ -304,7 +325,7 @@ sprint Sprint8 {
     status: PLANNED
     sprintbacklog Sprint8Backlog {
         item ProductBacklog.Feature1_Autenticacao.ImplementACL {
-            assignee: ProjectTeam.livia
+            assignee: DevelelopmentTeam.sofia
             startDate: 2025-11-20
             dueDate: 2025-11-30
             status: TODO
